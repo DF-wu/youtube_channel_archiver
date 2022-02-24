@@ -1,2 +1,2 @@
 #!/bin/sh
-youtube-dl --config-location youtube-dl.conf
+yt-dlp --config-location youtube-dl.conf
