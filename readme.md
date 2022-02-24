@@ -1,4 +1,9 @@
-# youtube-dl config - downloading entire channels for archival
+# DF modified version
++ modification: 
+  + add more flag for saving as much detail as possible
+  + replace `youtube-dl`  to `yt-dlp`  
+  + add the format parameters by [this stackoverflow thread](https://askubuntu.com/questions/856911/using-youtube-dl-to-download-entire-youtube-channel)
+## youtube-dl config - downloading entire channels for archival
 
 by https://www.reddit.com/user/Stephen304
 
